@@ -26,3 +26,5 @@
   <a href="https://www.instagram.com/joaovictorcfr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ferreira-3100a811b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 </div>
+
+![snake gif](https://github.com/joaovictorcfr/joaovictorcfr/blob/output/github-contribution-grid-snake.svg)
