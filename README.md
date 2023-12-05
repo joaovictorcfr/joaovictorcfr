@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Victor
 
 - 📧 Contate-me no email: jo-ovictor8@hotmail.com
-- 👨‍💻 Hoje trabalho como desenvolvedor web front-end
+- 👨‍💻 Hoje trabalho como desenvolvedor front-end
 
 <div>
   <a href="https://github.com/joaovictorcfr/joaovictorcfr">
